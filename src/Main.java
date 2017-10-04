@@ -4,6 +4,8 @@ import java.io.IOException;
 public class Main {
 	public static void main(String[] args) throws IOException {
 		
+		//GameScreemインスタンス生成
+		
 		//SocketServerインスタンス生成
 		SocketServer socket_server  = new SocketServer();
 		
