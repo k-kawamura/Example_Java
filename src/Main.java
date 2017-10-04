@@ -6,6 +6,8 @@ public class Main {
 		
 		//GameScreemインスタンス生成
 		
+		//GameScreemの実行
+		
 		//SocketServerインスタンス生成
 		SocketServer socket_server  = new SocketServer();
 		
